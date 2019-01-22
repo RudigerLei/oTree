@@ -18,7 +18,7 @@ class Constants(BaseConstants):
     players_per_group = 2
     num_rounds = 1
 
-    instructions_template = 'principal_agent/Instructions.html'
+    instructions_template = 'principal_agent/instructions.html'
 
     min_fixed_payment = c(-30)
     max_fixed_payment = c(30)

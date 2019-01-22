@@ -18,7 +18,7 @@ class Constants(BaseConstants):
     endowment = c(10)
     multiplier = 3
 
-    instructions_template = 'trust_simple/Instructions.html'
+    instructions_template = 'trust_simple/instructions.html'
 
 
 class Subsession(BaseSubsession):
