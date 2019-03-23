@@ -65,9 +65,7 @@ ADMIN_PASSWORD = environ.get('OTREE_ADMIN_PASSWORD')
 
 
 DEMO_PAGE_INTRO_HTML = """
-Here are various games implemented with 
-oTree. These games are open
-source, and you can modify them as you wish.
+Here are some oTree games.
 """
 
 # don't share this with anybody.
